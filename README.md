@@ -36,4 +36,4 @@ Ele simula um sistema escolar, porém salvando seus dados em um formato .txt, sa
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   https://github.com/Vazzoler1208/SistemaEscolar.git
