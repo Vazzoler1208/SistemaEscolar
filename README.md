@@ -1,6 +1,6 @@
 📌 Sistema Escolar
 
-> Sistema simples de cadastro de alunos desenvolvido em Java para praticar POO e CRUD.
+> Sistema simples de cadastro de alunos desenvolvido em Java para praticar POO e CRUD. Pode haver bugs e erros por ser um projeto de iniciante, porém serão corrigidos ao decorrer do tempo
 
 ---
 
